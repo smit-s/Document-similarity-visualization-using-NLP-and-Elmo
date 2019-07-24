@@ -154,7 +154,7 @@ def onclick(event):
 
 #function for submitting text (when submitted using text-box, enter id of document and number of similar documnets you need seperated by a '-')
 def submit(text):
-    data = "Test ID : "+str(text.split('-')[0])
+    data = str(text.split('-')[0])
     knn=int(text.split('-')[1])
     print(data)
     #if test-id is not valid
