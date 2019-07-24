@@ -11,9 +11,9 @@ Stage 1: Training the dataset for creating embeddings for test cases
 
 •	Run the code cells subsequently.
 
-•	Once the training part is finished (when the last cell completes execution), click the Refresh tab beside the Files tab.
+•	Once the inferring part is finished (when the last cell completes execution), click the Refresh tab beside the Files tab.
 
-•	Two new files will be displayed- doc_names.txt and embed.txt
+•	Two new files will be displayed- doc_names.txt and embeds.txt
 
 •	Download them and save them in a folder named cluster, along with doc_sim.py
 
