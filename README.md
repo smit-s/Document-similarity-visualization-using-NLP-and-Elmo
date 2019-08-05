@@ -42,11 +42,11 @@ Setup Environment variable for python:
 •	In the Advanced tab, click on “Environment Variables…”, and in the upper section i.e. user variables for Admin, Click on “New…” 
 option, and enter details as follows:
 
-	Variable name: Path
-	Variable value : Path-to-python-folder
+Variable name: Path
+Variable value : Path-to-python-folder
 and save it, and close the dialog boxes.
 
-Note: The main strength of this model lies on transfer learning, and it has been trained on 1 Billion Word benchmark dataset which is generally able to capture context for almost all English sentences/words.
-Hence, for better accuracy and performance, please try to use sentences as much as possible for description instead of short forms/codes (if possible), and also try to include the meaning of certain technical terms in brackets or one or two occurrences.
+Note: You can try running script in directory 'Example'. But all three files present in the directory must be kept in same folder.
+Basically it is an example for one to observe how this tool works where doc_names.txt consist of names of documents which are projected on 2-D space.
 
 
